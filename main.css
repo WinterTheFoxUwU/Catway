@@ -36,4 +36,13 @@ button.signin-btn
     margin-top: 5px;
     width: 100%;
     background-color: gainsboro;
+    margin-bottom: 1.2rem;
+}
+
+.create_account
+{
+    font-size: 1.2rem;
+    text-align: center;
+    display: block;
+    margin-top: 1.2rem;
 }
